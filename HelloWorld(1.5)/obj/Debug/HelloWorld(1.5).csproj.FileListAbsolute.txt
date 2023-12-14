@@ -1,0 +1,7 @@
+C:\Users\kusum\Desktop\Git\Projects\HelloWorld(1.5)\HelloWorld(1.5)\bin\Debug\HelloWorld(1.5).exe.config
+C:\Users\kusum\Desktop\Git\Projects\HelloWorld(1.5)\HelloWorld(1.5)\bin\Debug\HelloWorld(1.5).exe
+C:\Users\kusum\Desktop\Git\Projects\HelloWorld(1.5)\HelloWorld(1.5)\bin\Debug\HelloWorld(1.5).pdb
+C:\Users\kusum\Desktop\Git\Projects\HelloWorld(1.5)\HelloWorld(1.5)\obj\Debug\HelloWorld(1.5).csproj.AssemblyReference.cache
+C:\Users\kusum\Desktop\Git\Projects\HelloWorld(1.5)\HelloWorld(1.5)\obj\Debug\HelloWorld(1.5).csproj.CoreCompileInputs.cache
+C:\Users\kusum\Desktop\Git\Projects\HelloWorld(1.5)\HelloWorld(1.5)\obj\Debug\HelloWorld(1.5).exe
+C:\Users\kusum\Desktop\Git\Projects\HelloWorld(1.5)\HelloWorld(1.5)\obj\Debug\HelloWorld(1.5).pdb
